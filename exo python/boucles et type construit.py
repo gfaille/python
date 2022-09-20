@@ -27,7 +27,6 @@ def afficher_nombre (nb) :
         else :
             print(i)
 
-
 print(afficher_nombre(1))
 
 def liste_afficher (liste) :
